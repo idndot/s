@@ -1,0 +1,6 @@
+/* Loader *
+#load_page{display:none;position:fixed;top:0;right:0;bottom:0;left:0;z-index:999999;background:#fff}
+.load_er{background:transparent;top:calc(50% - 35px);left:calc(50% - 32.5px);margin-right:-50%;transform:translate(-50%,-50%);border:5px solid #F3F3F3;border-radius:50%;border-top:5px solid #9696C6!important;border-bottom:5px solid #9696C6!important;width:60px;height:60px;position:absolute}
+.load_show{transition:opacity 400ms}
+.load_hide{opacity:0}
+.load_spin{animation:spin 1s linear infinite}
